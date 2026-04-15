@@ -3,8 +3,8 @@
 > 🎯 **目标**：系统学习C语言算法，同时深度掌握Git与GitHub协作流程  
 > 👨‍💻 **作者**：嵌入式开发工程师 | 2025届毕业生 | 持续精进中
 
-[![GitHub stars](https://img.shields.io/github/stars/{username}/Learn_Algorithm_C?style=social)](https://github.com/{username}/Learn_Algorithm_C/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/{username}/Learn_Algorithm_C?style=social)](https://github.com/{username}/Learn_Algorithm_C/network)
+[![GitHub stars](https://img.shields.io/github/stars/kalaneke/Learn_Algorithm_C?style=social)](https://github.com/{username}/Learn_Algorithm_C/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kalaneke/Learn_Algorithm_C?style=social)](https://github.com/{username}/Learn_Algorithm_C/network)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![C Standard](https://img.shields.io/badge/C-C99%2FC11-green.svg)](https://en.cppreference.com/w/c)
 
